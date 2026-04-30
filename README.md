@@ -5,4 +5,4 @@
 | Zofia | 629 | 60.0% | 50.0% |
 | Valkyrie | 200 | 62.5% | 52.0% |
 
-**Full Audit:** [Click here to view the PDF Report](./Rainbow_Six_Siege_Engine_Analytics.pdf)
+**Full Audit:** [Click here to view the PDF Report](https://github.com/KittyPaine/Siege-Performance-Analytics/blob/main/Rainbow%20Six%20Siege%20Engine%20Analytics.pdf)
